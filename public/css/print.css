@@ -1,0 +1,18 @@
+* {font-size:18px;}
+.header {display:none}
+.menu {display:none}
+.submenu {display:none}
+.footer {display:none}
+.mites {display:none}
+.print {display:none}
+td, th{padding:1px;}
+table{
+border-spacing:0;
+border-collapse:collapse;
+}
+.table td, .table th{
+    border:1px solid #555;
+}
+.no-print{display:none}
+p{margin:3px 0}
+.entrant-result-table td{border:1px solid #cccccc; width:20px; height:20px;margin:0; padding:0}
